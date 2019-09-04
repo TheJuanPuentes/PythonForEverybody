@@ -32,7 +32,7 @@
  - Professor - for my grade in class.
  - Parents - investing in my education and future success, I want to make them proud.
  - Perspective Employers - artifact will be added to my student portfolio which could help with getting a job.
- - Myself - to gain knowledge in an area of interest for my own benefits.
+ - Myself - to gain knowledge in an area of interest for my own personal benefits.
 
 ## Timeline </br>
 
