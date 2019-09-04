@@ -2,17 +2,17 @@
 
 ## Goals </br> 
 
- - Complete the Learn Ethical Hacking From Scratch Course and earn a certification
+ - Complete the Learn Ethical Hacking From Scratch Course and earn a certification.
 
 ## Boundaries / Scope </br>
 
  - Complete Four Main Sections:
-  -Section One- Network Hacking
-  -Section Two- Gaining Access
-  -Section Three- Post Exploitation
-  -Section Four- Website/Web Application Hacking
+  - Section One- Network Hacking
+  - Section Two- Gaining Access
+  - Section Three- Post Exploitation
+  - Section Four- Website/Web Application Hacking
 
-## Success Criteria </br>
+## Success criteria </br>
 
  - My own understanding and certification on ethical hacking.
  - Weekly work log with screenshots and summaries to demonstrate activity.
@@ -29,10 +29,10 @@
 
 ## Stakeholders </br>
 
- - Professor - for my grade in class.
- - Parents - investing in my education and future success, I want to make them proud.
- - Perspective Employers - artifact will be added to my student portfolio which could help with getting a job.
- - Myself - to gain knowledge in an area of interest for my own personal benefits.
+ - Professor - for my grade in class
+ - Parents - investing in my education and future success, I want to make them proud
+ - Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
+ - Myself - to gain knowledge in an area of interest for future benefits
 
 ## Timeline </br>
 
