@@ -7,10 +7,10 @@
 ## Boundaries / Scope </br>
 
  - Complete Four Main Sections:
-  Section One- Network Hacking
-  Section Two- Gaining Access
-  Section Three- Post Exploitation
-  Section Four- Website/Web Application Hacking
+  -Section One- Network Hacking
+  -Section Two- Gaining Access
+  -Section Three- Post Exploitation
+  -Section Four- Website/Web Application Hacking
 
 ## Success Criteria </br>
 
