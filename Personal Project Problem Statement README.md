@@ -38,7 +38,7 @@
 
 Weekly Chapters:
 
-1. Chapter One - Introduction and Networking Hacking (2 hours) </br> 
+1. Chapter One: Introduction and Networking Hacking (2 hours) </br> 
 2. Chapter Two: Cracking and Gaining Access (1 hour) </br> 
 3. Chapter Three: Post Connection Attacks (3 hours) </br> 
 4. Chapter Four: Security and Side Attacks (2.5 hours) </br>
